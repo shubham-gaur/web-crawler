@@ -1,13 +1,11 @@
 # web-crawler
-## ==CSV File Input Description==
-
+### CSV File Input Description
 ### Page 1 :
 			List of [Offer Merchant + Offer Title]
 			Then for i:= 1to 10
 					Offer Description;
 					Offer Location
 Then Page 1.1;  1.2;  1.3....
-
 
 ### Page 2.1:
 			List of [Offer Merchant + Offer Title]
